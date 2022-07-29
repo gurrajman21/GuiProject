@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * Stores a List of MenuItems and provides a method return these items in a
  * formatted String. May be constructed from an existing List or from a file
- * with lines in the format:
+ * with lines in the format: 
  *
  * <pre>
 1.25 hot dog

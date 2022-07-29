@@ -7,7 +7,7 @@ import java.util.Scanner;
 import javax.swing.JFrame;
 
 /**
- * Executes the GUI interface for this program.
+ * Executes the GUI interface for this program
  *
  * @author Abdul-Rahman Mawlood-Yunis
  * @author David Brown

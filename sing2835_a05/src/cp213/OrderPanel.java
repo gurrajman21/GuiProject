@@ -14,7 +14,7 @@ import cp213.*;
 import javax.swing.*;
 
 /**
- * The GUI for the Order class.
+ * The GUI for the Order class
  *
  * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis

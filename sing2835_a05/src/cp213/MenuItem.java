@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * Defines the name and price of a menu item. Price is stored as a BigDecimal to
- * avoid rounding errors.
+ * avoid rounding errors
  *
  * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis

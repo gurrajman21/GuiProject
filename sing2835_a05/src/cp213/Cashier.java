@@ -1,7 +1,7 @@
 package cp213;
 import java.util.*;
 /**
- * Wraps around an Order object to ask for MenuItems and quantities.
+ * Wraps around an Order object to ask for MenuItems and quantities
  *
  * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis

@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Class testing.
+ * Class testing
  *
  * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis

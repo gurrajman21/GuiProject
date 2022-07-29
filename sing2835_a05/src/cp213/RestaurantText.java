@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * Executes the text-based interface for this program.
+ * Executes the text-based interface for this program
  *
  * @author Abdul-Rahman Mawlood-Yunis
  * @author David Brown
