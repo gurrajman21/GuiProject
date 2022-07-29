@@ -13,7 +13,7 @@ import java.util.HashMap;
  * Stores a HashMap of MenuItem objects and the quantity of each MenuItem
  * ordered. Each MenuItem may appear only once in the HashMap.
  *
- * @author your name here
+ * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis
  * @author David Brown
  * @version 2022-05-20

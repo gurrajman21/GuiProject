@@ -16,7 +16,7 @@ import java.util.Scanner;
 ...
  * </pre>
  *
- * @author your name here
+ * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis
  * @author David Brown
  * @version 2022-05-20

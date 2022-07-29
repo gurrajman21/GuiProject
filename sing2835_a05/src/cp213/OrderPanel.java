@@ -16,7 +16,7 @@ import javax.swing.*;
 /**
  * The GUI for the Order class.
  *
- * @author your name here
+ * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis
  * @author David Brown
  * @version 2022-05-20

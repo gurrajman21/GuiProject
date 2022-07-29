@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  * Class testing.
  *
- * @author your name here
+ * @author Gurraj Singh
  * @author Abdul-Rahman Mawlood-Yunis
  * @author David Brown
  * @version 2022-05-20
